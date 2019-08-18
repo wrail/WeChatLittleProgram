@@ -1,0 +1,21 @@
+{
+  "pages": [
+    
+      "pages/index/index",
+    "pages/userLogin/login",
+  "pages/report/report",
+  "pages/videoinfo/videoinfo",
+   "pages/searchVideo/searchVideo",
+    "pages/mine/mine",
+    "pages/userRegist/regist",
+    "pages/chooseBgm/chooseBgm"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "魔音短视频",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap28.json"
+}
